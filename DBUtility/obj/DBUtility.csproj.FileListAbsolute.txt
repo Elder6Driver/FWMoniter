@@ -1,0 +1,5 @@
+D:\FWMoniter\DBUtility\bin\Debug\FWSync.DBUtility.dll
+D:\FWMoniter\DBUtility\bin\Debug\FWSync.DBUtility.pdb
+D:\FWMoniter\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\FWMoniter\DBUtility\obj\Debug\FWSync.DBUtility.dll
+D:\FWMoniter\DBUtility\obj\Debug\FWSync.DBUtility.pdb

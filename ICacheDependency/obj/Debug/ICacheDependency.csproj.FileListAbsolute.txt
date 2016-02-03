@@ -1,0 +1,10 @@
+C:\Users\username\Desktop\FWMoniter\ICacheDependency\bin\Debug\FWSync.ICacheDependency.dll
+C:\Users\username\Desktop\FWMoniter\ICacheDependency\bin\Debug\FWSync.ICacheDependency.pdb
+C:\Users\username\Desktop\FWMoniter\ICacheDependency\obj\Debug\FWSync.ICacheDependency.dll
+C:\Users\username\Desktop\FWMoniter\ICacheDependency\obj\Debug\FWSync.ICacheDependency.pdb
+C:\Users\username\Desktop\FWMoniter\ICacheDependency\obj\Debug\ICacheDependency.csprojResolveAssemblyReference.cache
+C:\Users\username\Desktop\new\FWMoniter\ICacheDependency\bin\Debug\FWSync.ICacheDependency.dll
+C:\Users\username\Desktop\new\FWMoniter\ICacheDependency\bin\Debug\FWSync.ICacheDependency.pdb
+C:\Users\username\Desktop\new\FWMoniter\ICacheDependency\obj\Debug\ICacheDependency.csprojResolveAssemblyReference.cache
+C:\Users\username\Desktop\new\FWMoniter\ICacheDependency\obj\Debug\FWSync.ICacheDependency.dll
+C:\Users\username\Desktop\new\FWMoniter\ICacheDependency\obj\Debug\FWSync.ICacheDependency.pdb

@@ -1,0 +1,7 @@
+D:\FWMoniter\CacheDependencyFactory\bin\Debug\FWSync.CacheDependencyFactory.dll
+D:\FWMoniter\CacheDependencyFactory\bin\Debug\FWSync.CacheDependencyFactory.pdb
+D:\FWMoniter\CacheDependencyFactory\bin\Debug\FWSync.ICacheDependency.dll
+D:\FWMoniter\CacheDependencyFactory\bin\Debug\FWSync.ICacheDependency.pdb
+D:\FWMoniter\CacheDependencyFactory\obj\Debug\ResolveAssemblyReference.cache
+D:\FWMoniter\CacheDependencyFactory\obj\Debug\FWSync.CacheDependencyFactory.dll
+D:\FWMoniter\CacheDependencyFactory\obj\Debug\FWSync.CacheDependencyFactory.pdb

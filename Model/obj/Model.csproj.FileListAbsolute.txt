@@ -1,0 +1,5 @@
+D:\FWMoniter\Model\bin\Debug\FWSync.Model.dll
+D:\FWMoniter\Model\bin\Debug\FWSync.Model.pdb
+D:\FWMoniter\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\FWMoniter\Model\obj\Debug\FWSync.Model.dll
+D:\FWMoniter\Model\obj\Debug\FWSync.Model.pdb

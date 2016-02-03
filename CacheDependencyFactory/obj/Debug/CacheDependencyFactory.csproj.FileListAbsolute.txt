@@ -1,0 +1,14 @@
+C:\Users\username\Desktop\FWMoniter\CacheDependencyFactory\bin\Debug\FWSync.CacheDependencyFactory.dll
+C:\Users\username\Desktop\FWMoniter\CacheDependencyFactory\bin\Debug\FWSync.CacheDependencyFactory.pdb
+C:\Users\username\Desktop\FWMoniter\CacheDependencyFactory\bin\Debug\FWSync.ICacheDependency.dll
+C:\Users\username\Desktop\FWMoniter\CacheDependencyFactory\bin\Debug\FWSync.ICacheDependency.pdb
+C:\Users\username\Desktop\FWMoniter\CacheDependencyFactory\obj\Debug\FWSync.CacheDependencyFactory.dll
+C:\Users\username\Desktop\FWMoniter\CacheDependencyFactory\obj\Debug\FWSync.CacheDependencyFactory.pdb
+C:\Users\username\Desktop\FWMoniter\CacheDependencyFactory\obj\Debug\CacheDependencyFactory.csprojResolveAssemblyReference.cache
+C:\Users\username\Desktop\new\FWMoniter\CacheDependencyFactory\bin\Debug\FWSync.CacheDependencyFactory.dll
+C:\Users\username\Desktop\new\FWMoniter\CacheDependencyFactory\bin\Debug\FWSync.CacheDependencyFactory.pdb
+C:\Users\username\Desktop\new\FWMoniter\CacheDependencyFactory\bin\Debug\FWSync.ICacheDependency.dll
+C:\Users\username\Desktop\new\FWMoniter\CacheDependencyFactory\bin\Debug\FWSync.ICacheDependency.pdb
+C:\Users\username\Desktop\new\FWMoniter\CacheDependencyFactory\obj\Debug\CacheDependencyFactory.csprojResolveAssemblyReference.cache
+C:\Users\username\Desktop\new\FWMoniter\CacheDependencyFactory\obj\Debug\FWSync.CacheDependencyFactory.dll
+C:\Users\username\Desktop\new\FWMoniter\CacheDependencyFactory\obj\Debug\FWSync.CacheDependencyFactory.pdb

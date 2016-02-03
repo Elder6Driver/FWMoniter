@@ -1,0 +1,17 @@
+D:\FWMoniter\BLL\bin\Debug\FWSync.BLL.dll
+D:\FWMoniter\BLL\bin\Debug\FWSync.BLL.pdb
+D:\FWMoniter\BLL\bin\Debug\FWSync.DALFactory.dll
+D:\FWMoniter\BLL\bin\Debug\FWSync.IBLLStrategy.dll
+D:\FWMoniter\BLL\bin\Debug\FWSync.IDAL.dll
+D:\FWMoniter\BLL\bin\Debug\FWSync.IMessaging.dll
+D:\FWMoniter\BLL\bin\Debug\FWSync.MessagingFactory.dll
+D:\FWMoniter\BLL\bin\Debug\FWSync.Model.dll
+D:\FWMoniter\BLL\bin\Debug\FWSync.IDAL.pdb
+D:\FWMoniter\BLL\bin\Debug\FWSync.DALFactory.pdb
+D:\FWMoniter\BLL\bin\Debug\FWSync.IBLLStrategy.pdb
+D:\FWMoniter\BLL\bin\Debug\FWSync.Model.pdb
+D:\FWMoniter\BLL\bin\Debug\FWSync.IMessaging.pdb
+D:\FWMoniter\BLL\bin\Debug\FWSync.MessagingFactory.pdb
+D:\FWMoniter\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\FWMoniter\BLL\obj\Debug\FWSync.BLL.dll
+D:\FWMoniter\BLL\obj\Debug\FWSync.BLL.pdb

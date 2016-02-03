@@ -1,0 +1,13 @@
+C:\Users\username\Desktop\FWMoniter\TableCacheDependency\bin\Debug\FWSync.TableCacheDependency.dll
+C:\Users\username\Desktop\FWMoniter\TableCacheDependency\bin\Debug\FWSync.TableCacheDependency.pdb
+C:\Users\username\Desktop\FWMoniter\TableCacheDependency\bin\Debug\FWSync.ICacheDependency.dll
+C:\Users\username\Desktop\FWMoniter\TableCacheDependency\bin\Debug\FWSync.ICacheDependency.pdb
+C:\Users\username\Desktop\FWMoniter\TableCacheDependency\obj\Debug\FWSync.TableCacheDependency.dll
+C:\Users\username\Desktop\FWMoniter\TableCacheDependency\obj\Debug\FWSync.TableCacheDependency.pdb
+C:\Users\username\Desktop\new\FWMoniter\TableCacheDependency\bin\Debug\FWSync.TableCacheDependency.dll
+C:\Users\username\Desktop\new\FWMoniter\TableCacheDependency\bin\Debug\FWSync.TableCacheDependency.pdb
+C:\Users\username\Desktop\new\FWMoniter\TableCacheDependency\bin\Debug\FWSync.ICacheDependency.dll
+C:\Users\username\Desktop\new\FWMoniter\TableCacheDependency\bin\Debug\FWSync.ICacheDependency.pdb
+C:\Users\username\Desktop\new\FWMoniter\TableCacheDependency\obj\Debug\FWSync.TableCacheDependency.dll
+C:\Users\username\Desktop\new\FWMoniter\TableCacheDependency\obj\Debug\FWSync.TableCacheDependency.pdb
+C:\Users\username\Desktop\new\FWMoniter\TableCacheDependency\obj\Debug\TableCacheDependency.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\FWMoniter\TableCacheDependency\bin\Debug\FWSync.TableCacheDependency.dll
+D:\FWMoniter\TableCacheDependency\bin\Debug\FWSync.TableCacheDependency.pdb
+D:\FWMoniter\TableCacheDependency\bin\Debug\FWSync.ICacheDependency.dll
+D:\FWMoniter\TableCacheDependency\bin\Debug\FWSync.ICacheDependency.pdb
+D:\FWMoniter\TableCacheDependency\obj\Debug\ResolveAssemblyReference.cache
+D:\FWMoniter\TableCacheDependency\obj\Debug\FWSync.TableCacheDependency.dll
+D:\FWMoniter\TableCacheDependency\obj\Debug\FWSync.TableCacheDependency.pdb

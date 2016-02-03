@@ -1,0 +1,10 @@
+C:\Users\username\Desktop\FWMoniter\DBUtility\bin\Debug\FWSync.DBUtility.dll
+C:\Users\username\Desktop\FWMoniter\DBUtility\bin\Debug\FWSync.DBUtility.pdb
+C:\Users\username\Desktop\FWMoniter\DBUtility\obj\Debug\FWSync.DBUtility.dll
+C:\Users\username\Desktop\FWMoniter\DBUtility\obj\Debug\FWSync.DBUtility.pdb
+C:\Users\username\Desktop\FWMoniter\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\username\Desktop\new\FWMoniter\DBUtility\bin\Debug\FWSync.DBUtility.dll
+C:\Users\username\Desktop\new\FWMoniter\DBUtility\bin\Debug\FWSync.DBUtility.pdb
+C:\Users\username\Desktop\new\FWMoniter\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\username\Desktop\new\FWMoniter\DBUtility\obj\Debug\FWSync.DBUtility.dll
+C:\Users\username\Desktop\new\FWMoniter\DBUtility\obj\Debug\FWSync.DBUtility.pdb

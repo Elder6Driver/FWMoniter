@@ -1,0 +1,14 @@
+C:\Users\username\Desktop\FWMoniter\IDAL\bin\Debug\FWSync.IDAL.dll
+C:\Users\username\Desktop\FWMoniter\IDAL\bin\Debug\FWSync.IDAL.pdb
+C:\Users\username\Desktop\FWMoniter\IDAL\bin\Debug\FWSync.Model.dll
+C:\Users\username\Desktop\FWMoniter\IDAL\bin\Debug\FWSync.Model.pdb
+C:\Users\username\Desktop\FWMoniter\IDAL\obj\Debug\FWSync.IDAL.dll
+C:\Users\username\Desktop\FWMoniter\IDAL\obj\Debug\FWSync.IDAL.pdb
+C:\Users\username\Desktop\FWMoniter\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\username\Desktop\new\FWMoniter\IDAL\bin\Debug\FWSync.IDAL.dll
+C:\Users\username\Desktop\new\FWMoniter\IDAL\bin\Debug\FWSync.IDAL.pdb
+C:\Users\username\Desktop\new\FWMoniter\IDAL\bin\Debug\FWSync.Model.dll
+C:\Users\username\Desktop\new\FWMoniter\IDAL\bin\Debug\FWSync.Model.pdb
+C:\Users\username\Desktop\new\FWMoniter\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\username\Desktop\new\FWMoniter\IDAL\obj\Debug\FWSync.IDAL.dll
+C:\Users\username\Desktop\new\FWMoniter\IDAL\obj\Debug\FWSync.IDAL.pdb

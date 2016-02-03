@@ -1,0 +1,7 @@
+D:\FWMoniter\IDAL\bin\Debug\FWSync.IDAL.dll
+D:\FWMoniter\IDAL\bin\Debug\FWSync.IDAL.pdb
+D:\FWMoniter\IDAL\bin\Debug\FWSync.Model.dll
+D:\FWMoniter\IDAL\bin\Debug\FWSync.Model.pdb
+D:\FWMoniter\IDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\FWMoniter\IDAL\obj\Debug\FWSync.IDAL.dll
+D:\FWMoniter\IDAL\obj\Debug\FWSync.IDAL.pdb

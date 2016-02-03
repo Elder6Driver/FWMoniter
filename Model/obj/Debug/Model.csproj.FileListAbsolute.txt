@@ -1,0 +1,10 @@
+C:\Users\username\Desktop\FWMoniter\Model\bin\Debug\FWSync.Model.dll
+C:\Users\username\Desktop\FWMoniter\Model\bin\Debug\FWSync.Model.pdb
+C:\Users\username\Desktop\FWMoniter\Model\obj\Debug\FWSync.Model.dll
+C:\Users\username\Desktop\FWMoniter\Model\obj\Debug\FWSync.Model.pdb
+C:\Users\username\Desktop\FWMoniter\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\username\Desktop\new\FWMoniter\Model\bin\Debug\FWSync.Model.dll
+C:\Users\username\Desktop\new\FWMoniter\Model\bin\Debug\FWSync.Model.pdb
+C:\Users\username\Desktop\new\FWMoniter\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\username\Desktop\new\FWMoniter\Model\obj\Debug\FWSync.Model.dll
+C:\Users\username\Desktop\new\FWMoniter\Model\obj\Debug\FWSync.Model.pdb

@@ -1,0 +1,11 @@
+D:\FWMoniter\SQLServerDAL\bin\Debug\FWSync.SQLServerDAL.dll
+D:\FWMoniter\SQLServerDAL\bin\Debug\FWSync.SQLServerDAL.pdb
+D:\FWMoniter\SQLServerDAL\bin\Debug\FWSync.DBUtility.dll
+D:\FWMoniter\SQLServerDAL\bin\Debug\FWSync.IDAL.dll
+D:\FWMoniter\SQLServerDAL\bin\Debug\FWSync.Model.dll
+D:\FWMoniter\SQLServerDAL\bin\Debug\FWSync.DBUtility.pdb
+D:\FWMoniter\SQLServerDAL\bin\Debug\FWSync.Model.pdb
+D:\FWMoniter\SQLServerDAL\bin\Debug\FWSync.IDAL.pdb
+D:\FWMoniter\SQLServerDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\FWMoniter\SQLServerDAL\obj\Debug\FWSync.SQLServerDAL.dll
+D:\FWMoniter\SQLServerDAL\obj\Debug\FWSync.SQLServerDAL.pdb

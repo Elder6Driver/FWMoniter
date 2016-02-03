@@ -1,0 +1,9 @@
+D:\FWMoniter\DALFactory\bin\Debug\FWSync.DALFactory.dll
+D:\FWMoniter\DALFactory\bin\Debug\FWSync.DALFactory.pdb
+D:\FWMoniter\DALFactory\bin\Debug\FWSync.IDAL.dll
+D:\FWMoniter\DALFactory\bin\Debug\FWSync.Model.dll
+D:\FWMoniter\DALFactory\bin\Debug\FWSync.Model.pdb
+D:\FWMoniter\DALFactory\bin\Debug\FWSync.IDAL.pdb
+D:\FWMoniter\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+D:\FWMoniter\DALFactory\obj\Debug\FWSync.DALFactory.dll
+D:\FWMoniter\DALFactory\obj\Debug\FWSync.DALFactory.pdb
